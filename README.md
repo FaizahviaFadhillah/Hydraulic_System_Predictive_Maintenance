@@ -1,4 +1,4 @@
-# Predictive-maintenance-system-hidrolik
+# Hydraulic_System_Predictive_Maintenance
 
 Sistem prediktif pemeliharaan sistem hidraulik berbasis Machine Learning menggunakan algoritma **Histogram Gradient Boosting (HGB)**.
 
